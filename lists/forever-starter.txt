@@ -1,0 +1,8 @@
+# name: Forever starter
+# by: BilboTheGreedy
+# for: Forever
+# about: quest helper, dungeon boss mods, tooltips and a damage meter
+gh:Questie/Questie
+gh:BigWigsMods/LittleWigs
+gh:frozn/TipTac
+gh:zarnivoop/skada

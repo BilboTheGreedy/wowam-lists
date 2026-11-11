@@ -1,0 +1,8 @@
+# name: Raid basics
+# by: BilboTheGreedy
+# for: Retail
+# about: boss mods, weakauras and a damage meter
+gh:BigWigsMods/BigWigs
+gh:BigWigsMods/LittleWigs
+gh:WeakAuras/WeakAuras2
+gh:zarnivoop/skada
