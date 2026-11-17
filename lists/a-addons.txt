@@ -1,0 +1,29 @@
+# name: A addons
+# by: BilboTheGreedy
+# for: Forever
+# about: The full A series for WoW Forever: loot, quests, gear, bags, bars, unit frames, map and more. ACore is required by all of them.
+gh:BilboTheGreedy/ACore
+gh:BilboTheGreedy/AAlts
+gh:BilboTheGreedy/AAuction
+gh:BilboTheGreedy/ABag
+gh:BilboTheGreedy/ABars
+gh:BilboTheGreedy/ABoss
+gh:BilboTheGreedy/ABuffs
+gh:BilboTheGreedy/ABug
+gh:BilboTheGreedy/ACast
+gh:BilboTheGreedy/AChat
+gh:BilboTheGreedy/ACooldowns
+gh:BilboTheGreedy/AFrames
+gh:BilboTheGreedy/AGear
+gh:BilboTheGreedy/ALoot
+gh:BilboTheGreedy/AMail
+gh:BilboTheGreedy/AMap
+gh:BilboTheGreedy/AMeter
+gh:BilboTheGreedy/APlates
+gh:BilboTheGreedy/AProfession
+gh:BilboTheGreedy/AQuest
+gh:BilboTheGreedy/ASwing
+gh:BilboTheGreedy/ATip
+gh:BilboTheGreedy/AVendor
+gh:BilboTheGreedy/AWay
+gh:BilboTheGreedy/AXP
